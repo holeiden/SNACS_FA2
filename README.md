@@ -2,6 +2,8 @@
 
 Code and layout for SNACS course paper
 
-Code is in experiment file (written in Python)
+Experiment file: Experiment codes (written in Python)
 
-Visual layout in visual file
+Visual file: Visual layout graphs
+
+Forceatlas2.py: Forceatlas2 algorithm library 
